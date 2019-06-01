@@ -17,7 +17,7 @@
     <name>Configuration as Code API</name>
 
     <properties>
-        <revision>0.1</revision>
+        <revision>1.0</revision>
         <changelist>-SNAPSHOT</changelist>
         <jenkins.version>2.60.3</jenkins.version>
         <java.level>8</java.level>
